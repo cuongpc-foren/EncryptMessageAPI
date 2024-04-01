@@ -1,0 +1,11 @@
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\bin\Debug\net8.0\MessageAPIViewModel.deps.json
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\bin\Debug\net8.0\MessageAPIViewModel.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\bin\Debug\net8.0\MessageAPIViewModel.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.AssemblyInfoInputs.cache
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.AssemblyInfo.cs
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.csproj.CoreCompileInputs.cache
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\refint\MessageAPIViewModel.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\MessageAPIViewModel.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageAPIViewModel\obj\Debug\net8.0\ref\MessageAPIViewModel.dll

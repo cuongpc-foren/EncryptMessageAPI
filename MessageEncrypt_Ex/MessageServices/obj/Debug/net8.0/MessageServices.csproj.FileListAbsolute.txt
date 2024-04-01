@@ -1,0 +1,17 @@
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\MessageServices.deps.json
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\MessageServices.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\MessageServices.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\Library.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\MessageAPIViewModel.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\Library.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\bin\Debug\net8.0\MessageAPIViewModel.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.csproj.AssemblyReference.cache
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.AssemblyInfoInputs.cache
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.AssemblyInfo.cs
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.csproj.CoreCompileInputs.cache
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageS.360A8C5C.Up2Date
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\refint\MessageServices.dll
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\MessageServices.pdb
+C:\DevOps\my_repository\API_Projects\MessageEncrypt_Ex\MessageServices\obj\Debug\net8.0\ref\MessageServices.dll

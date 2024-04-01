@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB2432-DA57-4F16-85E1-D7E23703C3C3}|MessageAPI\\MessageAPI.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB2432-DA57-4F16-85E1-D7E23703C3C3}|MessageAPI\\MessageAPI.csproj|solutionrelative:messageapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageservices\\authentication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|solutionrelative:messageservices\\authentication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageservices\\authentication\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|solutionrelative:messageservices\\authentication\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageservices\\authorization\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|solutionrelative:messageservices\\authorization\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B40797-4C2B-4CAD-ADDB-597443AD29A5}|MessageAPIViewModel\\MessageAPIViewModel.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageapiviewmodel\\authentication\\loginresponseapiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B40797-4C2B-4CAD-ADDB-597443AD29A5}|MessageAPIViewModel\\MessageAPIViewModel.csproj|solutionrelative:messageapiviewmodel\\authentication\\loginresponseapiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageservices\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ED38E7-5BE1-4656-A6AC-451A6BA98AB9}|MessageServices\\MessageServices.csproj|solutionrelative:messageservices\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB2432-DA57-4F16-85E1-D7E23703C3C3}|MessageAPI\\MessageAPI.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB2432-DA57-4F16-85E1-D7E23703C3C3}|MessageAPI\\MessageAPI.csproj|solutionrelative:messageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB0299-536E-42CB-B055-C22AB94B8086}|MessageEncrypt_Ex\\MessageEncrypt_Ex.csproj|c:\\devops\\my_repository\\api_projects\\messageencrypt_ex\\messageencrypt_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB0299-536E-42CB-B055-C22AB94B8086}|MessageEncrypt_Ex\\MessageEncrypt_Ex.csproj|solutionrelative:messageencrypt_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageEncrypt_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "MessageEncrypt_Ex\\Program.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageEncrypt_Ex\\Program.cs",
+              "RelativeToolTip": "MessageEncrypt_Ex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:39:14.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponseAPIViewModel.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPIViewModel\\Authentication\\LoginResponseAPIViewModel.cs",
+              "RelativeDocumentMoniker": "MessageAPIViewModel\\Authentication\\LoginResponseAPIViewModel.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPIViewModel\\Authentication\\LoginResponseAPIViewModel.cs",
+              "RelativeToolTip": "MessageAPIViewModel\\Authentication\\LoginResponseAPIViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:45:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\ILoginService.cs",
+              "RelativeDocumentMoniker": "MessageServices\\Authentication\\ILoginService.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\ILoginService.cs",
+              "RelativeToolTip": "MessageServices\\Authentication\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:31:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MessageServices\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "MessageServices\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:54:51.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authorization\\TokenService.cs",
+              "RelativeDocumentMoniker": "MessageServices\\Authorization\\TokenService.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authorization\\TokenService.cs",
+              "RelativeToolTip": "MessageServices\\Authorization\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:50:35.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\LoginService.cs",
+              "RelativeDocumentMoniker": "MessageServices\\Authentication\\LoginService.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageServices\\Authentication\\LoginService.cs",
+              "RelativeToolTip": "MessageServices\\Authentication\\LoginService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAhwGIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:42:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "MessageAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "MessageAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:39:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MessageAPI\\Program.cs",
+              "ToolTip": "C:\\DevOps\\my_repository\\API_Projects\\MessageEncrypt_Ex\\MessageAPI\\Program.cs",
+              "RelativeToolTip": "MessageAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:39:10.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
